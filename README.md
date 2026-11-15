@@ -11,9 +11,6 @@
     <a href="mailto:94136nikitasharma@gmail.com">
       <img src="https://img.shields.io/badge/Email-F5C2E7?style=for-the-badge&logo=gmail&logoColor=1E1E2E" />
     </a>
-    <a href="https://instagram.com/debug_my_days">
-      <img src="https://img.shields.io/badge/Instagram-F38BA8?style=for-the-badge&logo=instagram&logoColor=1E1E2E" />
-    </a>
   </p>
 
 </div>
@@ -22,10 +19,10 @@
 
 ### ✨ About Me
 
-- 🔭 **Currently:** Building enterprise **Agentic AI & Backend REST APIs** (`Python`, `FastAPI`, `Django`, `PostgreSQL`) at **ZS Associates**[cite: 1]
-- 🚀 **Featured Builds:** [`Spotter-AI-Fuel-Optimizer`](https://github.com/94136nikitasharma/Spotter-AI-Fuel-Optimizer) • [`genesis-darwinian-code-evolution`](https://github.com/94136nikitasharma/genesis-darwinian-code-evolution) • [`whiteboard-backend`](https://github.com/94136nikitasharma/whiteboard-backend)[cite: 4]
-- 🌱 **Exploring:** Distributed system design, async SQLAlchemy/PostgreSQL optimization, and multi-agent LLM orchestration[cite: 1]
-- 🏆 **Milestones:** **Amazon ML Summer School '23** • **4★ CodeChef** (AIR 39 CodeKaze • Global Rank 63 SnackDown)[cite: 1]
+- 🔭 **Currently:** Building enterprise **Agentic AI & Backend REST APIs** (`Python`, `FastAPI`, `Django`, `PostgreSQL`) at **ZS Associates**
+- 🚀 **Featured Builds:** [`Spotter-AI-Fuel-Optimizer`](https://github.com/94136nikitasharma/Spotter-AI-Fuel-Optimizer) • [`genesis-darwinian-code-evolution`](https://github.com/94136nikitasharma/genesis-darwinian-code-evolution) • [`whiteboard-backend`](https://github.com/94136nikitasharma/whiteboard-backend)
+- 🌱 **Exploring:** Distributed system design, async SQLAlchemy/PostgreSQL optimization, and multi-agent LLM orchestration
+- 🏆 **Milestones:** **Amazon ML Summer School '23** • **4★ CodeChef** (AIR 39 CodeKaze • Global Rank 63 SnackDown)
 
 ---
 
