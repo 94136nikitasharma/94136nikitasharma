@@ -46,9 +46,13 @@
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=94136nikitasharma&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=F5C2E7&text_color=CDD6F4" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=94136nikitasharma&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=94136nikitasharma&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=F5C2E7&text_color=CDD6F4" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=94136nikitasharma&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=94136nikitasharma&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F5C2E7&currStreakLabel=CBA6F7" />
 </div>
